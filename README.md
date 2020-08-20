@@ -1,3 +1,3 @@
-**FreeCodeCamp**
+**Socket.IO learning boilerplate**
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-socketio)](https://repl.it/github/freeCodeCamp/boilerplate-socketio)
+Web sockets which allow for real time communication between all your clients and your server.
