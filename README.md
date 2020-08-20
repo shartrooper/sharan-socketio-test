@@ -1,3 +1,3 @@
 **Socket.IO learning boilerplate**
 
-Web sockets which allow for real time communication between all your clients and your server.
+Socket.IO 2.0 Web sockets which allow for real time communication between all your clients and your server.
